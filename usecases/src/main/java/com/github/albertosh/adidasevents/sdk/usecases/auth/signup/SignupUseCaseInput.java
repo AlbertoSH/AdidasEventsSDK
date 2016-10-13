@@ -4,7 +4,7 @@ import com.fernandocejas.arrow.checks.Preconditions;
 
 import org.joda.time.LocalDate;
 
-import java.util.Optional;
+import java8.util.Optional;
 
 public class SignupUseCaseInput {
 

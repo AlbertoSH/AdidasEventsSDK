@@ -2,7 +2,7 @@ package com.github.albertosh.adidasevents.sdk.usecases.events.getsingle;
 
 import com.fernandocejas.arrow.checks.Preconditions;
 
-import java.util.Optional;
+import java8.util.Optional;
 
 public class GetSingleEventUseCaseInput {
 

@@ -4,7 +4,7 @@ import com.fernandocejas.arrow.checks.Preconditions;
 
 import org.joda.time.LocalDate;
 
-import java.util.Optional;
+import java8.util.Optional;
 
 public class Event extends ObjectWithId {
 
@@ -14,7 +14,7 @@ public class Event extends ObjectWithId {
     private final String imageUrl;
     private final String imageId;
 
-    private Event(Builder builder) {
+    protected Event(Builder builder) {
         super(builder);
         this.title = Preconditions.checkNotNull(builder.title);
         this.description = builder.description;

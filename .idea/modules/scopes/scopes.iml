@@ -7,6 +7,7 @@
       <excludeFolder url="file://$MODULE_DIR$/../../../scopes/build/classes" />
       <excludeFolder url="file://$MODULE_DIR$/../../../scopes/build/dependency-cache" />
       <excludeFolder url="file://$MODULE_DIR$/../../../scopes/build/libs" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../scopes/build/publications" />
       <excludeFolder url="file://$MODULE_DIR$/../../../scopes/build/retrolambda" />
       <excludeFolder url="file://$MODULE_DIR$/../../../scopes/build/tmp" />
     </content>

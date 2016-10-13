@@ -7,6 +7,7 @@
       <excludeFolder url="file://$MODULE_DIR$/../../../usermanagement/build/classes" />
       <excludeFolder url="file://$MODULE_DIR$/../../../usermanagement/build/dependency-cache" />
       <excludeFolder url="file://$MODULE_DIR$/../../../usermanagement/build/libs" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../usermanagement/build/publications" />
       <excludeFolder url="file://$MODULE_DIR$/../../../usermanagement/build/retrolambda" />
       <excludeFolder url="file://$MODULE_DIR$/../../../usermanagement/build/tmp" />
     </content>

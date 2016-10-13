@@ -18,6 +18,11 @@ public class GetAllEventsUseCase implements IGetAllEventsUseCase {
     }
 
     @Override
+    public Observable<List<Event>> execute() {
+        return execute(null);
+    }
+
+    @Override
     public Observable<List<Event>> execute(@Nullable String language) {
         return eventAllRepositoryRead.read(language);
     }

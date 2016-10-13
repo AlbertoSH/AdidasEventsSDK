@@ -10,9 +10,7 @@ import rx.Observable;
 
 public interface IGetAllEventsUseCase {
 
-    default Observable<List<Event>> execute() {
-        return execute(null);
-    }
+    Observable<List<Event>> execute();
 
     Observable<List<Event>> execute(@Nullable String language);
 

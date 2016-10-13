@@ -1,6 +1,6 @@
 package com.github.albertosh.adidasevents.sdk.api.publicapi.events.all;
 
-import java.util.Optional;
+import java8.util.Optional;
 
 public class GetAllEventsServiceInput {
 
