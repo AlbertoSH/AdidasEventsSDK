@@ -1,0 +1,7 @@
+dependencies {
+    compile project(':scopes')
+    compile project(':api')
+    compile project(':repositories')
+    compile project(':models')
+    compile project(':usermanagement')
+}

@@ -1,0 +1,8 @@
+rootProject.name = 'adidassdk'
+include 'scopes'
+include 'api'
+include 'repositories'
+include 'models'
+include 'usecases'
+include 'usermanagement'
+

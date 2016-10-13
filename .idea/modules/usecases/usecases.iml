@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":usecases" external.linked.project.path="$MODULE_DIR$/../../../usecases" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="adidassdk" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../usecases">
+      <excludeFolder url="file://$MODULE_DIR$/../../../usecases/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../usecases/build/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../usecases/build/dependency-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../usecases/build/libs" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../usecases/build/retrolambda" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../usecases/build/tmp" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

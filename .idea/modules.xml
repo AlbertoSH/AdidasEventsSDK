@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/adidassdk.iml" filepath="$PROJECT_DIR$/.idea/modules/adidassdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/api.iml" filepath="$PROJECT_DIR$/.idea/modules/api/api.iml" group="api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/api_main.iml" filepath="$PROJECT_DIR$/.idea/modules/api/api_main.iml" group="api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/api_test.iml" filepath="$PROJECT_DIR$/.idea/modules/api/api_test.iml" group="api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/models/models.iml" filepath="$PROJECT_DIR$/.idea/modules/models/models.iml" group="models" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/models/models_main.iml" filepath="$PROJECT_DIR$/.idea/modules/models/models_main.iml" group="models" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/models/models_test.iml" filepath="$PROJECT_DIR$/.idea/modules/models/models_test.iml" group="models" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/repositories/repositories.iml" filepath="$PROJECT_DIR$/.idea/modules/repositories/repositories.iml" group="repositories" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/repositories/repositories_main.iml" filepath="$PROJECT_DIR$/.idea/modules/repositories/repositories_main.iml" group="repositories" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/repositories/repositories_test.iml" filepath="$PROJECT_DIR$/.idea/modules/repositories/repositories_test.iml" group="repositories" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scopes/scopes.iml" filepath="$PROJECT_DIR$/.idea/modules/scopes/scopes.iml" group="scopes" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scopes/scopes_main.iml" filepath="$PROJECT_DIR$/.idea/modules/scopes/scopes_main.iml" group="scopes" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scopes/scopes_test.iml" filepath="$PROJECT_DIR$/.idea/modules/scopes/scopes_test.iml" group="scopes" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/usecases/usecases.iml" filepath="$PROJECT_DIR$/.idea/modules/usecases/usecases.iml" group="usecases" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/usecases/usecases_main.iml" filepath="$PROJECT_DIR$/.idea/modules/usecases/usecases_main.iml" group="usecases" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/usecases/usecases_test.iml" filepath="$PROJECT_DIR$/.idea/modules/usecases/usecases_test.iml" group="usecases" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/usermanagement/usermanagement.iml" filepath="$PROJECT_DIR$/.idea/modules/usermanagement/usermanagement.iml" group="usermanagement" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/usermanagement/usermanagement_main.iml" filepath="$PROJECT_DIR$/.idea/modules/usermanagement/usermanagement_main.iml" group="usermanagement" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/usermanagement/usermanagement_test.iml" filepath="$PROJECT_DIR$/.idea/modules/usermanagement/usermanagement_test.iml" group="usermanagement" />
+    </modules>
+  </component>
+</project>
